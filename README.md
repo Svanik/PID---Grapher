@@ -1,6 +1,6 @@
 # **PID Grapher**
 ___
-##### By: Svanik Dani
+##### Svanik Dani
 
 This is a simple PID Grapher made for FRC Team 5895.
 
