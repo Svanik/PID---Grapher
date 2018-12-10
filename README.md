@@ -4,6 +4,10 @@ ___
 
 This is a simple PID Grapher made for FRC Team 5895.
 
+#### Requirements.txt
+___
+The Requirments.txt file has all the dependencies for this project. It can be installed using pip wiht the terminal command ``` pip install -r requirements.txt```
+
 #### Json File-Explained
 ___
 The Json file titled Variables.json is used for assigning variables that will be used in the graphing Script.
