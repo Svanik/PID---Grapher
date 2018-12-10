@@ -22,8 +22,8 @@ The items that need to be changed are labeled CHANGE THIS:
 
 #### Log File
 ___
-Replace the file named Log335.csv with the Log file including your data.
+Replace the file named "REPLACE WITH YOUR LOG FILE.csv" with the Log file including your data.
 
 #### Usage of the PID.py file
 ___
-After you set the JSON Variables simply run the command```python PID.py```. The graph will include a line for the setpoint and another line for the Time vs Speed. The setpoint line will be in blue and the PID line in red. 
+After you set the JSON Variables simply run the command ```python PID.py``` in terminal. The graph will include a line for the setpoint and another line for the Time vs Speed. The setpoint line will be in blue and the PID line in red. 
