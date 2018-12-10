@@ -1,8 +1,1 @@
 {"Setpoint": "Flywheel Setpoint", "Speed": "Flywheel Speed", "Object": "Flywheel", "Path": "Log335.csv"}
-
-{
-   "_comment": "Setpoint is the name of the column in the csv file refering to the Setpoint"
-   "_comment": "Speed is the name of the column in the csv file refering to the Current speed of the object"
-   "_comment": "Object is the object being tracked. IE: Flywheel, Motor, etc."
-   "_comment": "Path is the path to the csv file. If the python script and the csv file are in teh same"
-}
